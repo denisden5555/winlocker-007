@@ -18,7 +18,7 @@ iexplore = 'iexplore.exe'
 game = 'game.exe'
 
 
-with open(r'C:\pas.txt', 'r') as pas: # В файл pas.txt пишем свой пароль
+with open(r'C:\63567425', 'r') as pas: # В файл pas.txt пишем свой пароль
     data = pas.read()
 
 def callback(event):
